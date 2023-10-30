@@ -46,4 +46,14 @@ Code
 
   return (newArr.join(' '));
   
-}```
+}
+```
+
+### Courses
+* JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) 
+* Udemy
+* FreeCodeCamp
+* HTML Academy
+### Languages
+* Russian - Native
+* English - A2-B1
