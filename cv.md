@@ -4,6 +4,8 @@
 * Phone: +995 595 017 843
 * Email: svetailina1987@gmail.com
 * GitHub: [SvetaIlina](https://github.com/SvetaIlina)
+
+
 ### About Me:
 I've been studying Frontend for six months. But I realized, that I needed a more structured approach to learning. My goal is to get as much knowledge about front-end development as possible.
 
@@ -15,11 +17,15 @@ I have completed several free courses and I want to continue to develop myself. 
 * striveing for self-development
 * stress resistance
 * quick learner
+
+
 ### Skills
 * HTML/CSS (SASS/SCSS, BEM)
 * JavaScript (Basic)
 * Git/GitHub
 * Gulp, Webpack
+
+
 ### Code Example
 **KATA from CODEWARS:** 
 Task is to sort a given string. Each word in the string will contain a single number. This number is the position the word should have in the result.
@@ -35,7 +41,8 @@ Examples
 ""  -->  ""
 ```
 Code
-```function order(words){
+```
+function order(words){
   const arr = words.split(' ')
   let newArr = []
   arr.forEach(el => {
@@ -54,6 +61,8 @@ Code
 * Udemy
 * FreeCodeCamp
 * HTML Academy
+
+
 ### Languages
 * Russian - Native
 * English - A2-B1
